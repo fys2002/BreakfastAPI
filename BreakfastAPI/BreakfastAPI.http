@@ -1,0 +1,6 @@
+@BreakfastAPI_HostAddress = http://localhost:5219
+
+GET {{BreakfastAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
